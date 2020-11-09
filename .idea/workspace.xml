@@ -2,48 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9333589e-3516-407b-85ef-f8bc68fcaaab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/data_describe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/test_bayonet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/test_hotel.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/test_internet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/realtimesearch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/bigdata/controller/SearchController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/bigdata/controller/boot/ApplicationBootController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/bigdata/controller/rest/SearchService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/bigdata/insert/LoadData2HBaseAndElasticSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/bigdata/manager/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/bigdata/query/Query.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/bigdata/utils/ConstantUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/bigdata/utils/ElasticSearchUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/bigdata/utils/HBaseUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/conf.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/info_target_search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/bigdata/controller/SearchController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/bigdata/controller/boot/ApplicationBootController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/bigdata/controller/rest/SearchService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/bigdata/insert/LoadData2HBaseAndElasticSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/bigdata/manager/Manager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/bigdata/query/Query.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/bigdata/utils/ConstantUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/bigdata/utils/ElasticSearchUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/bigdata/utils/HBaseUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/conf.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/info_target_search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/logs/automationlogs.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/info_target_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/info_target_search.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +27,13 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\projects\IDEAProject\realtimesearch\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -196,8 +163,16 @@
       <option name="presentableId" value="Default" />
       <updated>1604884414195</updated>
       <workItem from="1604884417424" duration="12429000" />
-      <workItem from="1604919766182" duration="267000" />
+      <workItem from="1604919766182" duration="1145000" />
     </task>
+    <task id="LOCAL-00001" summary="hbase结合es的实时检索项目">
+      <created>1604920053452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604920053452</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,10 +183,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="hbase结合es的实时检索项目" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1064" y="104" key="CommitChangelistDialog2" timestamp="1604919983768">
+    <state x="1064" y="104" key="CommitChangelistDialog2" timestamp="1604920048787">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1064" y="104" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604919983768" />
+    <state x="1064" y="104" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604920048787" />
     <state x="1203" y="325" key="FileChooserDialogImpl" timestamp="1604919792355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -220,6 +195,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="790" y="462" width="373" height="171" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604914138103" />
+    <state x="1105" y="388" key="Github.ShareDialog" timestamp="1604920141738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1105" y="388" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604920141738" />
     <state width="1175" height="234" key="GridCell.Tab.0.bottom" timestamp="1604919723031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
